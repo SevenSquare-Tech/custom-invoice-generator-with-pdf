@@ -4,6 +4,8 @@ This Laravel package provides an easy to use interface to generate **Invoice PDF
 
 Invoice file can be stored, downloaded, streamed on any of the filesystems you have configured. Supports different templates and locales.
 
+[Here's the Complete Guide to Build Custom PDF Invoice Generator in Laravel.](https://www.sevensquaretech.com/laravel-pdf-invoice-generator-guide-code-github/)
+
 ## Features
 
 - Taxes - fixed or rate - for item or for invoice
